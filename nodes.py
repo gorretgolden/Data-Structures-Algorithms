@@ -30,4 +30,9 @@ class Node:
 # self.value: Holds the data (e.g., 10, 5, 15).
 # self.left: Holds the left child (another node or None).
 # self.right: Holds the right child (another node or None).
+#Creating a node
+node1= Node(12)
+print(node1.value)
+print(node1.left)
+print(node1.right)
 
